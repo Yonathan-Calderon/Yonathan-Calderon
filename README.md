@@ -22,50 +22,6 @@ Welcome to my corner of the code universe! 🚀 I'm a passionate Mid-Level Full-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Work Experience
-
-### Full-Stack Web Developer | Cober - [www.cober.com.ar](https://www.cober.com.ar) 
-*(March 2023 - Present)*
-
-In the marketing and performance department, I play a key role in the company's digital projects, specializing in both front-end and back-end development.
-
-### Software Developer | Deux It - [www.deuxit.com](https://www.deuxit.com)
-*(November 2022 - March 2023)*
-
-Handling PL/SQL procedures and developing Forms tailored to specific user requests, ensuring efficiency and user satisfaction.
-
-### Full-Stack Web Developer | CalderonDev - [calderondev.com](https://calderondev.com) 
-*(May 2020 - November 2022)*
-
-Crafting comprehensive websites from concept to completion, strategically leveraging technologies like Next.js, React, and Node.js.
-
-
-## Academic History
-
-### Advanced Systems Analysis Technician | Technical Training Institute No. 4, Buenos Aires 
-*(Currently Enrolled - 2nd Year)*
-
-
-## Certified Trainings
-
-### [APRENDE.ORG](https://www.aprende.org)
-
-- Introduction to Programming
-- Programming Logic
-- Object-Oriented Programming
-- Back-End Developer
-- Front-End Developer
-- PL/SQL Developer
-
-### [GOOGLE ACTIVATE](https://learndigital.withgoogle.com/activate)
-
-- Web Development - Part 1
-- Web Development - Part 2
-
-### [LINKEDIN LEARNING](https://www.linkedin.com/learning)
-
-- Full-Stack Web Developer
-- Advanced Systems Analysis Technician
 
 ## Let's Connect!
 
