@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm Yonathan Calderon
 
-![Yonathan Calderon](https://unsplash.com/es/fotos/fotografia-de-lapso-de-tiempo-eH_ftJYhaTY)
 
 ## About Me
 
