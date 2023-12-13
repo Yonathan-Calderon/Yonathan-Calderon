@@ -26,7 +26,7 @@ Welcome to my corner of the code universe! 🚀 I'm a passionate Mid-Level Full-
 
 ## Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yonathan-calderon)
+- [LinkedIn](https://www.linkedin.com/in/calderondev)
 - [Personal Website](https://calderondev.com)
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects! 🌟
